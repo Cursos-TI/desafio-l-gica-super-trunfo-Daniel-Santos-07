@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 int main(){
       char estado[50], codigo[50], nome[50];
